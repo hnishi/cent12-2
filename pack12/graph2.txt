@@ -1,0 +1,9 @@
+ヒストグラム
+black line：グループＡ
+red line：グループＢ
+
+hist1.png  :重心からの距離による分布
+hist2.png  :重心からできる立方体による分布
+hist3.png  :ｘ軸方向での分布
+hist4.png  :ｙ軸方向での分布
+hist5.png  :ｚ軸方向での分布

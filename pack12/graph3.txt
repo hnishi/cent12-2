@@ -1,0 +1,10 @@
+グラフ３
+black line：グループＡの領域に含まれるグループＢのデータ数
+red line：グループＢの領域に含まれるグループＡのデータ数
+
+1c.png  :（coordinates）１σ
+2c.png  :（coordinates）２σ
+3c.png  :（coordinates）３σ
+1d.png  :（distance）１σ
+2d.png  :（distance）２σ
+3d.png  :（distance）３σ

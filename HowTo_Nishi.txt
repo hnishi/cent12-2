@@ -1,0 +1,23 @@
+・準備するもの
+①pack12/
+②zenb12.csh
+③prtRuRc.pl
+④sub_eva.csh
+
+・実行方法（手順）
+#①”sub_eva.csh (first_resnum) (final_resnum)”
+#  取り出したい残基番号を指定してサブユニットＡのＣＡ原子のデータのみを抽出し、
+#  pdbtmp/フォルダの中に格納します。
+①”sub_eva02.csh (first_resnum) (final_resnum) (segname)”
+  取り出したい残基番号とチェイン名を指定してＣＡ原子のデータのみを抽出し、
+  pdbtmp/フォルダの中に格納します。
+②”perl prtRuRc.pl r_factor.list > Rufile”
+  Rufileファイルを作成します。
+③”zenb12.csh (first_resnum) (final_resnum)”
+  シェルスクリプトを実行してresult12/フォルダを作成します。
+
+
+以上。
+
+
+

@@ -1,0 +1,9 @@
+black line：グループＡの領域に含まれるグループＢのデータ数を、グループＡのデータ数から引いたもの
+red line：グループＢの領域に含まれるグループＡのデータ数を、グループＢのデータ数から引いたもの
+
+A-B_1c.png  :（coordinates）１σ
+A-B_2c.png  :（coordinates）２σ
+A-B_3c.png  :（coordinates）３σ
+A-B_1d.png  :（distance）１σ
+A-B_2d.png  :（distance）２σ
+A-B_3d.png  :（distance）３σ
