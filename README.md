@@ -1,2 +1,2 @@
 # cent12-2
-Heritage in B4 Student
+Heritage of B4 Student
